@@ -1,0 +1,5 @@
+---
+title: "Deriving the Least-Squares Estimates for Simple Linear Regression"
+---
+
+![](/images/90186d_6851a46df2de44f8ab80d4848dcbb585~mv2.gif)
