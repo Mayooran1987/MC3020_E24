@@ -1,0 +1,50 @@
+---
+title: "Week 10 (23-06-25 to 27-06-25)"
+editor: visual
+---
+
+## Prepare
+
+📖 Read the [syllabus](/course-syllabus.html)
+
+📖 Read the [support](/course-support.html) resources
+
+## Participate
+
+🖥️[Lecture 4](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_4.pptx) - Statistical Inferences
+
+```{=html}
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F4%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+```
+
+🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations.
+
+🖥️[Lecture 3](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx) - Continuous Probability Distributions
+
+🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions
+
+🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability
+
+## Practice
+
+1.  A manufacturing company produces metal rods whose lengths are normally distributed with a mean of 11.5 cm and a standard deviation of 1.6 cm. quality control inspector randomly selects a sample of 16 rods for inspection.
+
+    a.  What is the standard deviation of the sampling distribution of the sample mean?
+    b.  What is the probability that the sample mean length exceeds 12.3 cm?
+    c.  Between which two symmetrically located values will 68% of the sample means lie.
+
+2.  A study is to be made to estimate the proportion of residents of a certain city and its suburbs who favor the construction of a nuclear power plant near the city. How large a sample is needed if one wishes to be at least 95% confident that the estimate is within 0.04 of the true proportion of residents who favor the construction of the nuclear power plant?
+
+3.  A study was conducted involving a random sample of 100 automobile owners residing in the state of Virginia. The data collected indicates that, on average, each automobile is driven approximately 23,500 kilometers per year. Additionally, the sample shows a standard deviation of 3,900 kilometers, reflecting the variability in annual distances driven by different vehicles. It is assumed that the distribution of the annual distances driven by automobiles in Virginia follows an approximately normal distribution. Based on this information, construct a 99% confidence interval to estimate the true mean number of kilometers that an automobile is driven annually in the state of Virginia.
+
+<!-- 📋 [Application Exercise 9 - Odds](/ae/ae-9-odds.html) -->
+
+<!-- ## Perform -->
+
+<!-- ✍️ [HW 3 - Logistic regression and log transformation](/hw/hw-3.html) -->
+
+<!-- <br><br> -->
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

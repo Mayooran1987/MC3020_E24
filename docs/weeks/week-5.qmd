@@ -1,0 +1,76 @@
+---
+title: "Week 5 (05-01-26 to 09-01-26)"
+editor: visual
+---
+
+## Prepare
+
+📖 Read the [syllabus](/course-syllabus.html)
+
+📖 Read the [support](/course-support.html) resources
+
+## Participate
+
+🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions
+
+```{=html}
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F2%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+```
+
+🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations.
+
+🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability
+
+## Practice
+
+(1) It is conjectured that an impurity exists in 30% of all drinking wells in a certain rural community. In order to gain some insight into the true extent of the problem, it is determined that some testing is necessary. It is too expensive to test all of the wells in the area, so 10 are randomly selected for testing.
+
+    a)  Using the binomial distribution, what is the probability that exactly 3 wells have the impurity, assuming that the conjecture is correct?
+    b)  What is the probability that more than 3 wells are impure?
+    c)  What is the mean and variance of the distribution of the number of drinking wells?
+
+(2) An automatic welding machine is being considered for use in a production process. It will be considered for purchase if it is successful on 99% of its welds. Otherwise, it will not be considered efficient. A test is to be conducted with a prototype that is to perform 100 welds. The machine will be accepted for manufacture if it misses no more than 3 welds.
+
+    a)  What is the probability that a good machine will be rejected?
+    b)  What is the probability that an inefficient machine with 95% welding success will be accepted?
+
+(3) An automobile manufacturer is concerned about a fault in the braking mechanism of a particular model. The fault can, on rare occasions, cause a catastrophe at high speed. The distribution of the number of cars per year that will experience the catastrophe is a Poisson random variable with λ = 5.
+
+    a)  What is the probability that at most 3 cars per year will experience a catastrophe?
+    b)  What is the probability that more than 1 car per year will experience a catastrophe?
+
+(4) Changes in airport procedures require considerable planning. Arrival rates of aircraft are important factors that must be taken into account. Suppose small aircraft arrive at a certain airport, according to a Poisson process, at the rate of 6 per hour. Thus, the Poisson parameter for arrivals over a period of hours is µ = 6t.
+
+    a)  What is the probability that exactly 4 small aircraft arrive during a 1-hour period?
+    b)  What is the probability that at least 4 arrive during a 2-hour period?
+    c)  If we define a working day as 12 hours, what is the probability that at least 75 small aircraft arrive during a working day?
+
+(5) A service engineer is can be called out for maintenance on the photocopiers in the offices of four large companies, A, B, C and D. On any given week there is a probability of 0.1 that he will be called to each of these companies. The event of being called to one company is independent of whether or not he is called to any of the others.
+
+    (a) Find the probability that, on a particular day,
+
+        i\. He is called to all four companies,
+
+        ii\. He is called to at least three companies,
+
+        iii\. He is called to all four given that he is called to at least one,
+
+        iv\. He is called to all four given that he is called to Company A.
+
+    (b) Find the expected value and variance of the number of these companies which call the engineer on a given day.
+
+## Perform
+
+Assignment 1 Examination scheduled at 09.10 am to 09.50 am. To ensure that the exam runs smoothly, we have arranged the exam halls as follows: 
+
+-   Group 1 (Registration numbers **2023/E/001 to 2023/E/101**) will be in **Exam Hall 1 (First floor, Computer Engineering Department)**  
+
+-   Group 2 (Registration numbers **2023/E/103 to 2023/E/167**) will be in **Lecture Hall 13 (2nd floor, Admin Building)**  and 
+
+-   The remaining students (Registration numbers **2023/E/168 to 2022/E/198** and **re-attempt students**) will be in the **Auditorium (2nd floor, Admin Building)**. 
+
+Make sure to review all sections thoroughly to ensure you're prepared for the exam! I hope everyone follows the exam policies and cooperates with the exam administration to make the exam run smoothly. Moreover, you can access class materials by checking out the [course webpage](https://mayooran1987.github.io/MC3020-E23/ "https://mayooran1987.github.io/MC3020-E23/").
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

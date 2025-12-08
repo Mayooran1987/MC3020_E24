@@ -1,0 +1,151 @@
+---
+title: "Week 16 (04-08-25 to 08-08-25)"
+editor: visual
+---
+
+## Prepare
+
+📖 Read the [syllabus](/course-syllabus.html)
+
+📖 Read the [support](/course-support.html) resources
+
+## Participate
+
+### **Lecture Schedule**
+
+-   **Monday:**
+
+    -   1:55 PM – 2:50 PM and 3:10 PM – 4:05 PM
+
+-   **Tuesday:**
+
+    -   8:00 AM – 8:55 AM and 8:55 AM – 9:50 AM
+
+-   **Thursday:**
+
+    -   8:00 AM – 8:55 AM and 8:55 AM – 9:50 AM
+
+🖥️[Lecture 6](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_6.pptx) - Association between Two Variables
+
+```{=html}
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F6%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+```
+
+🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations.
+
+🖥️[Lecture 5](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_5.pptx) - Statistical Inferences II
+
+🖥️[Lecture 4](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_4.pptx) - Statistical Inferences I
+
+🖥️[Lecture 3](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx) - Continuous Probability Distributions
+
+🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions
+
+🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability
+
+## Practice
+
+1.  Suppose you are conducting an experiment to study the relationship between the fuel consumption of a fleet vehicle and various factors such as engine displacement (L), average speed (km/h), and trip duration (hours). You collected data from multiple vehicles and obtained the following dataset :
+
+    | Vehicle | Engine Displacement (L) | Average Speed (km/h) | Trip Duration (hours) | Fuel Consumption (liters) |
+    |---------------|---------------|---------------|---------------|---------------|
+    | 1 | 2.0 | 60 | 1.5 | 9.2 |
+    | 2 | 2.5 | 70 | 2.0 | 12.5 |
+    | 3 | 1.8 | 55 | 1.8 | 8.4 |
+    | 4 | 3.0 | 80 | 2.5 | 15.6 |
+    | 5 | 2.2 | 65 | 2.0 | 11.0 |
+    | 6 | 2.8 | 75 | 2.2 | 14.0 |
+
+    To utilize this data for predictive analysis and better manage water resources, you need to answer the following questions based on the given R output:
+
+<!-- -->
+
+a.  Find the multiple linear regression line to determine the relationship between fuel consumption (dependent variable) and engine displacement, average speed, and trip duration (independent variables).
+b.  Interpret the coefficients of the regression equation in the context of the problem.
+c.  Use the regression equation to predict the fuel consumption for a vehicle with the following specifications: engine displacement = 2.4 L, average speed = 68 km/h, and trip duration = 2 hours.
+d.  Calculate the coefficient of determination $(R^2)$ and interpret its meaning.
+e.  Perform a hypothesis test to determine whether the regression equation is statistically significant at a 95% confidence level. State your hypotheses, the test statistic, and the conclusion.
+f.  Perform the hypothesis test for testing the significance of the coefficient of the engine displacement variable and state the conclusion.
+
+![](images/R_Multiple.PNG)
+
+2.  Engineering students at the University of Jaffna participated in a study to evaluate the impact of a new teaching method on their academic performance. Seven students were tested before and after the implementation of the new method. The test scores (out of 100) for each student before and after the implementation are provided in the table below. Assume that the changes in test scores are approximately normally distributed.
+
+    |         |     |     |     |     |     |     |     |     |
+    |---------|-----|-----|-----|-----|-----|-----|-----|-----|
+    | Subject | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+    | Before  | 75  | 72  | 78  | 65  | 70  | 88  | 84  | 85  |
+    | After   | 80  | 85  | 82  | 70  | 75  | 90  | 86  | 79  |
+
+    a.  Can we use paired t-test for this problem? Justify your answer.
+    b.  Construct a 99% confidence interval for the mean difference in test scores.
+    c.  Can it be concluded that the teaching method has an impact on test scores at the 10% level of significance?
+
+3.  A study is conducted to compare the lengths of time required by men and women to assemble a certain product. Past experience indicates that the distribution of times for both men and women is approximately normal but the variance of the times for women is less than that for men. A random sample of times for 11 men and 14 women produced the following data:
+
+    | Men       | Women     |
+    |-----------|-----------|
+    | $n_1$=11  | $n_2$=14  |
+    | $s_1$=6.1 | $s_2$=5.3 |
+
+    Test, at the 0.05 level of significance, the hypothesis that ${\sigma_1}^2 = {\sigma_2}^2$ against the alternative that ${\sigma_1}^2 > {\sigma_2}^2$ .
+
+4.  The table shows data on the number of tourists visiting a national park in a month, t (in 1000s), and the revenue generated from tourism, r (£ millions), over a period of 8 months.
+
+    |                                |      |      |      |      |      |      |      |      |
+    |--------------------------------|------|------|------|------|------|------|------|------|
+    | Number of tourists t (1000s)   | 1500 | 1620 | 1580 | 1490 | 1420 | 1380 | 1450 | 1510 |
+    | Tourism revenue r (£ millions) | 820  | 890  | 870  | 810  | 770  | 750  | 790  | 830  |
+
+<!-- -->
+
+a.  Find the correlation coefficient between r and t.
+
+b.  Fit a regression model of the form $r = a + bt$ to these data.
+
+c.  Interpret the value of b in the context of this problem.
+
+d.  Compute a 95% confidence interval for the intercept of the regression line.
+
+e.  Test the hypothesis that the regression line passes through the origin, using a 0.1 significance level.
+
+f.  Estimate the revenue generated when the number of tourists in a month is 1600.
+
+<!-- -->
+
+5.  As a civil engineering student working on final year project at the Ariviyal Nagar Weather Station, you are tasked with predicting the soil moisture content at a 30Cm depth based on environmental factors such as temperature, wind speed, solar radiation, and overall moisture levels. The datasets you have collected is as follows:
+
+    | Temperature (°C) | Wind Speed (km/h) | Solar Radiation (W/m²) | MoistureLevel (%) | Soil Moisture Content at 30Cm Depth (%) |
+    |---------------|---------------|---------------|---------------|---------------|
+    | 25 | 10 | 1200 | 90 | 15 |
+    | 27 | 15 | 1250 | 85 | 13 |
+    | 30 | 20 | 1300 | 60 | 11 |
+    | 32 | 25 | 1350 | 45 | 20 |
+    | 34 | 30 | 1200 | 70 | 19 |
+    | 36 | 35 | 1150 | 35 | 17 |
+    | 38 | 40 | 1100 | 30 | 15 |
+    | 40 | 45 | 1050 | 25 | 14 |
+
+    To utilize this data for predictive analysis and better manage water resources, you need to answer the following questions based on the given R output:
+
+<!-- -->
+
+a.  Determine the equation for predicting soil moisture content at a 30Cm depth based on temperature, wind speed, solar radiation, and moisture level.
+b.  Explain the meaning of each coefficient in the context of the problem. Describe how changes in each environmental factor affect the soil moisture content.
+c.  Use the regression plane equation to predict the soil moisture content at a 30Cm depth for the following conditions: temperature of 29°C, wind speed of 22km/h, solar radiation of 1325W/m²,and moisture level of 65%.
+d.  .Determine the R-squared value for the regression plane and interpret its meaning in terms of how well the model explains the variability in soil moisture content.
+e.  Conduct a test to determine the significance of the temperature variable in predicting soil moisture content. State the hypotheses, the test statistic, and the conclusion clearly.
+
+## Perform
+
+Assignment 4 Examination is scheduled from 9:10 am to 9:50 am on Tuesday (05-08-2025). To ensure that the exam runs smoothly, we have arranged the exam halls as follows:
+
+-   Group 1 (Registration numbers **2023/E/001 to 2023/E/101**) will be in Exam Hall 1 (First floor, Computer Engineering Department)
+
+-   Group 2 (Registration numbers **2023/E/103 to 2022/E/198** and re-attempt students) will be in the Exam Hall 2 (2nd floor, Admin Building).
+
+Please review all sections thoroughly to ensure you're prepared for the exam! I hope everyone follows the exam policies and cooperates with the administration to make the exam run smoothly. Moreover, you can access class materials by checking out the [course webpage](https://mayooran1987.github.io/MC3020-E23/ "https://mayooran1987.github.io/MC3020-E23/").
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

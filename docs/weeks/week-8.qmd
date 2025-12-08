@@ -1,0 +1,56 @@
+---
+title: "Week 8  (09-06-25 to 12-06-25)"
+editor: visual
+---
+
+## Prepare
+
+📖 Read the [syllabus](/course-syllabus.html)
+
+📖 Read the [support](/course-support.html) resources
+
+## Participate
+
+🖥️[Lecture 4](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_4.pptx) - Statistical Inferences
+
+```{=html}
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F4%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+```
+
+🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations.
+
+🖥️[Lecture 3](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx) - Continuous Probability Distributions
+
+🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions
+
+🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability
+
+## Practice
+
+<!-- ![](/images/asap.jpg){width="87"} -->
+
+1.  A company produces parts for an engine. Parts specifications suggest that 95% of items meet specifications. The parts are shipped to customers in lots of 100.
+
+    a.  What is the probability that more than two items in a given lot will be defective?
+    b.  What is the probability that more than 10 items in a lot will be defective?
+
+2.  The serum cholesterol level X in fourteen-year-old boys has approximately a normal distribution with a mean of 170 and a standard deviation of 30.
+
+    a.  Find the probability that the serum cholesterol level of a randomly chosen fourteen-year-old boy exceeds 230.
+    b.  In a middle school, there are 300 fourteen-year-old boys. Find the probability that at least eight boys have a serum cholesterol level that exceeds 230.
+
+## Perform
+
+Assignment 2 Examination is scheduled from 3:05 pm to 3:40 pm on Monday (09-06-2025). To ensure that the exam runs smoothly, we have arranged the exam halls as follows: 
+
+-   Group 1 (Registration numbers **2023/E/001 to 2023/E/101**) will be in **Exam Hall 1 (First floor, Computer Engineering Department)**  
+
+-   Group 2 (Registration numbers **2023/E/103 to 2023/E/167**) will be in **Lecture Hall 13 (2nd floor, Admin Building)**  and 
+
+-   The remaining students (Registration numbers **2023/E/168 to 2022/E/198** and **re-attempt students**) will be in the **Auditorium (2nd floor, Admin Building)**. 
+
+Make sure to review all sections thoroughly to ensure you're prepared for the exam! I hope everyone follows the exam policies and cooperates with the exam administration to make the exam run smoothly. Moreover, you can access class materials by checking out the [course webpage](https://mayooran1987.github.io/MC3020-E23/ "https://mayooran1987.github.io/MC3020-E23/").
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::

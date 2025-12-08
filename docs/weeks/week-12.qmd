@@ -1,0 +1,80 @@
+---
+title: "Week 11 (07-07-25 to 11-07-25)"
+editor: visual
+---
+
+## Prepare
+
+📖 Read the [syllabus](/course-syllabus.html)
+
+📖 Read the [support](/course-support.html) resources
+
+## Participate
+
+🖥️[Lecture 4](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_4.pptx) - Statistical Inferences
+
+```{=html}
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F4%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+```
+
+🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations.
+
+🖥️[Lecture 3](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx) - Continuous Probability Distributions
+
+🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions
+
+🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability
+
+## Practice
+
+1.  A fertilizer mixing machine is set to give 12 kg of nitrate for every quintal (100 kg) bag of fertilizer. Ten 100 kg bags are randomly selected and examined. The percentages of nitrate in the sample are as follows:
+
+    ```         
+     11, 14, 13, 15, 13, 11, 13, 14, 10, 12
+    ```
+
+    Assume that the sample is from a normally distributed population.
+
+    a.  Construct a 98% confidence interval estimate for the mean nitrate content for each 100 kg bag in the company.
+    b.  Construct a 95% confidence interval for the variance of nitrate content for each 100 kg bag in the company.
+    c.  By using the results from part (b), construct a 95% confidence interval for the standard deviation of nitrate content for each 100 kg bag in the company.
+
+2.  The concentration of mercury in a lake has been monitored for a number of years. Measurements taken on a weekly basis yielded an average of 1.20 mg/m\^3 (milligrams per cubic meter) with a standard deviation of 0.32 mg/m\^3 . Following an accident at a smelter on the shore of the lake, 15 measurements produced the following mercury concentrations:
+
+    ```         
+       1.60, 1.77, 1.61, 1.08, 1.07, 1.79, 1.34, 1.07, 1.45, 1.59, 1.43, 2.07, 1.16, 0.85, 2.11
+    ```
+
+    a.  Give a point estimate (sample mean) of the mean mercury concentration after the accident.
+    b.  Construct a 95% confidence interval for the mean mercury concentration after the accident. Interpret this interval.
+    c.  Is there sufficient evidence that the mean mercury concentration has increased since the accident? Use α = 0.05.
+
+3.  As part of their Design and Prototyping (ID3020) project, a team of students at the University of Jaffna has developed a cutting-edge smart irrigation system designed to optimize water usage in agricultural fields. The system incorporates sensors and actuators to precisely control the amount of water delivered to crops, enhancing crop yield while conserving water resources. To ensure the system’s effectiveness, the team conducts a series of tests on randomly selected plots of land. The team measures the soil moisture levels in ten randomly selected plots and records the following percentages:
+
+    ```         
+     Soil Moisture Data (%) : 30, 35, 32, 38, 33, 31, 36, 34, 37, 29 
+    ```
+
+    Assuming the soil moisture levels follow a normal distribution, answer the following:
+
+    a.  The team aims to estimate the mean soil moisture content per plot and construct a 98% confidence interval for each plot. The team seeks to assess the variability of soil moisture content across the plots.
+    b.  Construct a 95% confidence interval for the variance of soil moisture content per plot using the recorded data.
+    c.  Using the results obtained in part (b), construct a 95% confidence interval for the standard deviation of soil moisture content per plot, providing valuable insights into the consistency of water distribution achieved by their innovative smart irrigation system.
+
+4.  Suppose you are a civil engineer tasked with estimating the average compressive strength of a certain type of concrete used in construction projects in the Kilinochchi area. In a previous study, it was found that the standard deviation of the compressive strengths of this type of concrete is 500 psi. To ensure a high level of confidence in your estimate, you aim to conduct a survey with a 92% confidence interval. You want the estimate to be within 100 psi of the true average compressive strength. Based on this information, determine the minimum sample size needed for your survey.
+
+## Perform
+
+Assignment 3 Examination is scheduled from 9:10 am to 9:50 am on Tuesday (08-07-2025). To ensure that the exam runs smoothly, we have arranged the exam halls as follows: 
+
+-   Group 1 (Registration numbers **2023/E/001 to 2023/E/101**) will be in **Exam Hall 1 (First floor, Computer Engineering Department)**  
+
+-   Group 2 (Registration numbers **2023/E/103 to 2023/E/167**) will be in **Lecture Hall 13 (2nd floor, Admin Building)**  and 
+
+-   The remaining students (Registration numbers **2023/E/168 to 2022/E/198** and **re-attempt students**) will be in the **Auditorium (2nd floor, Admin Building)**. 
+
+Make sure to review all sections thoroughly to ensure you're prepared for the exam! I hope everyone follows the exam policies and cooperates with the administration to make the exam run smoothly. Moreover, you can access class materials by checking out the [course webpage](https://mayooran1987.github.io/MC3020-E23/ "https://mayooran1987.github.io/MC3020-E23/").
+
+::: {style="font-size: 0.875em;"}
+Back to [course schedule](/ "Course schedule") ⏎
+:::
