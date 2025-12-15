@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-2.html</loc>
-    <lastmod>2025-12-15T01:38:35.827Z</lastmod>
-  </url>
-  <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-9.html</loc>
     <lastmod>2025-06-23T05:00:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-7.html</loc>
+    <lastmod>2025-06-13T10:21:54.000Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-5.html</loc>
     <lastmod>2025-12-08T06:36:19.000Z</lastmod>
   </url>
   <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-3.html</loc>
+    <lastmod>2025-12-15T01:38:52.837Z</lastmod>
+  </url>
+  <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-16.html</loc>
     <lastmod>2025-08-07T00:56:35.705Z</lastmod>
   </url>
   <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-14.html</loc>
+    <lastmod>2025-08-07T00:59:05.623Z</lastmod>
+  </url>
+  <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-12.html</loc>
     <lastmod>2025-07-19T02:19:53.352Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-10.html</loc>
+    <lastmod>2025-07-01T01:09:40.370Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/supplemental/slr-derivations.html</loc>
@@ -101,24 +113,28 @@
     <lastmod>2025-04-18T01:26:33.601Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/news.html</loc>
-    <lastmod>2025-12-15T01:41:15.549Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/Past_exam.html</loc>
+    <lastmod>2025-04-28T01:13:08.425Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-7.html</loc>
-    <lastmod>2025-04-18T01:26:46.350Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/LICENSE.html</loc>
+    <lastmod>2025-04-21T05:49:12.000Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-5.html</loc>
-    <lastmod>2025-04-18T01:26:46.308Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-6.html</loc>
+    <lastmod>2025-04-18T01:26:46.332Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-3.html</loc>
-    <lastmod>2025-04-18T01:26:46.252Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-4.html</loc>
+    <lastmod>2025-04-18T01:26:46.286Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-1.html</loc>
-    <lastmod>2025-04-18T01:26:46.208Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-2.html</loc>
+    <lastmod>2025-04-18T01:26:46.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-0.html</loc>
+    <lastmod>2025-04-18T01:26:46.189Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/hw/hw-5.html</loc>
@@ -137,12 +153,24 @@
     <lastmod>2025-04-18T01:26:45.571Z</lastmod>
   </url>
   <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/course-team.html</loc>
+    <lastmod>2025-12-08T05:30:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/course-support.html</loc>
+    <lastmod>2025-12-08T05:27:50.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/course-faq.html</loc>
     <lastmod>2025-04-18T01:26:33.412Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/computing-pipelines.html</loc>
     <lastmod>2025-04-18T01:26:33.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/apps2.html</loc>
+    <lastmod>2025-07-14T01:51:39.795Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/ae/ae-9-odds.html</loc>
@@ -197,12 +225,24 @@
     <lastmod>2025-04-18T01:26:45.188Z</lastmod>
   </url>
   <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/apps.html</loc>
+    <lastmod>2025-12-08T06:37:41.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/computing-access.html</loc>
     <lastmod>2025-04-18T01:26:33.327Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/computing-troubleshooting.html</loc>
     <lastmod>2025-04-18T01:26:33.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/course-links.html</loc>
+    <lastmod>2025-04-28T01:41:38.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/course-syllabus.html</loc>
+    <lastmod>2025-12-08T05:21:18.000Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/exams/exam-1.html</loc>
@@ -221,24 +261,28 @@
     <lastmod>2025-04-18T01:26:45.683Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-0.html</loc>
-    <lastmod>2025-04-18T01:26:46.189Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/index.html</loc>
+    <lastmod>2025-12-14T02:49:58.106Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-2.html</loc>
-    <lastmod>2025-04-18T01:26:46.236Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-1.html</loc>
+    <lastmod>2025-04-18T01:26:46.208Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-4.html</loc>
-    <lastmod>2025-04-18T01:26:46.286Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-3.html</loc>
+    <lastmod>2025-04-18T01:26:46.252Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-6.html</loc>
-    <lastmod>2025-04-18T01:26:46.332Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-5.html</loc>
+    <lastmod>2025-04-18T01:26:46.308Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/LICENSE.html</loc>
-    <lastmod>2025-04-21T05:49:12.000Z</lastmod>
+    <loc>https://mayooran1987.github.io/MC3020-E23/labs/lab-7.html</loc>
+    <lastmod>2025-04-18T01:26:46.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/news.html</loc>
+    <lastmod>2025-12-15T01:49:41.810Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/project-description.html</loc>
@@ -246,7 +290,7 @@
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/Schedule.html</loc>
-    <lastmod>2025-12-15T01:42:06.372Z</lastmod>
+    <lastmod>2025-12-15T01:49:43.940Z</lastmod>
   </url>
   <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/slides/lab-1.html</loc>
@@ -321,23 +365,35 @@
     <lastmod>2025-04-18T01:26:48.660Z</lastmod>
   </url>
   <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-10.html</loc>
-    <lastmod>2025-07-01T01:09:40.370Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-14.html</loc>
-    <lastmod>2025-08-07T00:59:05.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-3.html</loc>
-    <lastmod>2025-12-15T01:38:52.837Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-7.html</loc>
-    <lastmod>2025-06-13T10:21:54.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-1.html</loc>
     <lastmod>2025-12-08T06:32:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-11.html</loc>
+    <lastmod>2025-07-14T01:33:24.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-13.html</loc>
+    <lastmod>2025-07-19T02:23:37.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-15.html</loc>
+    <lastmod>2025-08-07T00:58:27.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-2.html</loc>
+    <lastmod>2025-12-15T01:38:35.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-4.html</loc>
+    <lastmod>2025-12-08T06:34:55.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-6.html</loc>
+    <lastmod>2025-05-26T10:38:48.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mayooran1987.github.io/MC3020-E23/weeks/week-8.html</loc>
+    <lastmod>2025-07-14T01:33:30.818Z</lastmod>
   </url>
 </urlset>
