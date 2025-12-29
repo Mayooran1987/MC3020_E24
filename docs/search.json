@@ -37,18 +37,7 @@
     "href": "weeks/week-9.html#practice",
     "title": "Week 9 (16-06-25 to 20-06-25)",
     "section": "Practice",
-    "text": "Practice\n\n\nThe heights of 1000 students are approximately normally distributed with a mean of 174.5 centimetres and a standard deviation of 6.9 centimetres. Suppose 200 random samples of size 25 are drawn from this population and the means are recorded to the nearest tenth of a centimetre. Determine\n\nthe mean and standard deviation of the sampling distribution of \\(\\bar{X}\\).\nthe number of sample means falling below 172.0 centimeters.\nthe number of sample means that fall between 172.5 and 175.8 centimeters inclusive.\n\nA manufacturer of MP3 players conducts a set of comprehensive tests on the electrical functions of its product. All MP3 players must pass all tests before being sold. Out of a random sample of 500 MP3 players, 15 failed one or more tests. Find a 90% confidence interval for the proportion of MP3 players from the population that pass all tests.\nThe production employees at a food packaging facility have been surveyed to determine the proportion of employees who prefer rotating shifts over fixed shifts. Previous surveys suggest this proportion ranges from 25% to 45%. Facility management wants to construct a 95% confidence interval estimate for the true proportion, with a margin of error no larger than 5%. What sample size should they use for the survey?",
-    "crumbs": [
-      "Weekly materials",
-      "Week 9"
-    ]
-  },
-  {
-    "objectID": "weeks/week-9.html#perform",
-    "href": "weeks/week-9.html#perform",
-    "title": "Week 9 (16-06-25 to 20-06-25)",
-    "section": "Perform",
-    "text": "Perform\nThe mid-semester examination will be held on Monday (16/06/2025) from 02:00 pm to 02:50 pm at Exam Hall 1 and Hall 2 (a detailed group list is given below) of the Faculty. We will provide you with writing materials for answering. Non-authorized documents are strictly prohibited in the exam hall. If it is determined that you have violated any policies during this exam, you will receive a score of zero for this mid-exam, without any exceptions or considerations.\nTo ensure that the exam runs smoothly, we have arranged the exam halls as follows: \n\nGroup 1 (Registration numbers 2023/E/001 to 2023/E/101) will be in Exam Hall 1 (First floor, Computer Engineering Department)  \nGroup 2 (Registration numbers 2023/E/103 to 2022/E/198 and re-attempt students) will be in the Exam Hall 2 (2nd floor, Admin Building). \n\nPlease review all sections thoroughly to ensure you’re prepared for the exam! I hope everyone follows the exam policies and cooperates with the exam administration to make the exam run smoothly. \nGood luck with your examinations! \nThanks, \nMayooran\n\nBack to course schedule ⏎",
+    "text": "Practice\n\n\nThe heights of 1000 students are approximately normally distributed with a mean of 174.5 centimetres and a standard deviation of 6.9 centimetres. Suppose 200 random samples of size 25 are drawn from this population and the means are recorded to the nearest tenth of a centimetre. Determine\n\nthe mean and standard deviation of the sampling distribution of \\(\\bar{X}\\).\nthe number of sample means falling below 172.0 centimeters.\nthe number of sample means that fall between 172.5 and 175.8 centimeters inclusive.\n\nA manufacturer of MP3 players conducts a set of comprehensive tests on the electrical functions of its product. All MP3 players must pass all tests before being sold. Out of a random sample of 500 MP3 players, 15 failed one or more tests. Find a 90% confidence interval for the proportion of MP3 players from the population that pass all tests.\nThe production employees at a food packaging facility have been surveyed to determine the proportion of employees who prefer rotating shifts over fixed shifts. Previous surveys suggest this proportion ranges from 25% to 45%. Facility management wants to construct a 95% confidence interval estimate for the true proportion, with a margin of error no larger than 5%. What sample size should they use for the survey?\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 9"
@@ -81,29 +70,7 @@
     "href": "weeks/week-7.html#participate",
     "title": "Week 7 (02-06-25 to 06-06-25)",
     "section": "Participate",
-    "text": "Participate\n🖥️Lecture 3 - Continuous Probability Distributions\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
-    "crumbs": [
-      "Weekly materials",
-      "Week 7"
-    ]
-  },
-  {
-    "objectID": "weeks/week-7.html#practice",
-    "href": "weeks/week-7.html#practice",
-    "title": "Week 7 (02-06-25 to 06-06-25)",
-    "section": "Practice",
-    "text": "Practice\n\nConsider a civil engineering project where traffic flow at a certain intersection needs to be analyzed. The number of vehicles waiting at a traffic signal follows the following probability distribution:\n\n\n\nX = x\n1\n2\n3\n4\n5\n6\n\n\nP (X = x)\n0.20\nk\n0.25\n0.10\n0.10\n0.05\n\n\n\nHere, z represents the number of vehicles waiting, and P(X = x) is the probability of observing vehicles waiting. Given this information, let’s solve the following questions:\n\nDetermine the value of k.\nEstimate the expected number and standard deviation of vehicles waiting at the traffic signal.\nWhat is the probability that fewer than three vehicles are waiting at the traffic signal?\nWhat is the probability that at least four vehicles are waiting at the traffic signal?\n\nIn the November 1990 issue of Chemical Engineering Progress, a study discussed the percent purity of oxygen from a certain supplier. Assume that the mean was 99.61 with a standard deviation of 0.08. Assume that the distribution of percent purity was approximately normal.\n\nWhat percentage of the purity values would you expect to be between 99.5 and 99.7?\nWhat purity value would you expect to exceed exactly 5% of the population?\n\nHigh accumulation of certain pollutants in the atmosphere can adversely affect the environment and human health, which is a concern for the Ariviyal Nagar region, particularly the vicinity of the University of Jaffna. Elevated levels of pollutants such as particulate matter, sulphur dioxide, and nitrogen oxides can lead to respiratory issues and environmental degradation. Nitrogen oxides (NOx) are primary contributors to air pollution, primarily originating from vehicle emissions, industrial processes, and the combustion of fossil fuels. Suppose the distribution of nitrogen oxide emissions from vehicles in the Ariviyal Nagar region can be modelled adequately by a normal distribution with a mean emission level (μ) of 80 ppb (parts per billion) and standard deviation(σ) of 12 ppb.\n\nWhat is the probability that a randomly selected vehicle from the Ariviyal Nagar region will have emission levels less than 50 ppb?\nWhat is the probability that a randomly selected vehicle from the Ariviyal Nagar region will have emission levels greater than 100 ppb?\nWhat is the probability that a randomly selected vehicle from the Ariviyal Nagar region will have emission levels between 40 ppb and 116 ppb?\n\nThe operator of a pumping station has observed that demand for water during early afternoon hours follows an approximately exponential distribution with a mean of 100 cubic feet per second (cfs).\n\nFind the probability that the demand will exceed 200 cfs during the early afternoon on a randomly selected day.\nWhat water-pumping capacity should the station maintain during the early afternoons so that the probability that demand will exceed capacity on a randomly selected day is only 0.01?\n\nThe heights of 1000 students are approximately normally distributed with a mean of 174.5 centimetres and a standard deviation of 6.9 centimetres. Suppose 200 random samples of size 25 are drawn from this population and the means are recorded to the nearest tenth of a centimetre. Determine\n\nthe mean and standard deviation of the sampling distribution of \\(\\bar{X}\\).\nthe number of sample means falling below 172.0 centimeters.\nthe number of sample means that fall between 172.5 and 175.8 centimeters inclusive.",
-    "crumbs": [
-      "Weekly materials",
-      "Week 7"
-    ]
-  },
-  {
-    "objectID": "weeks/week-7.html#perform",
-    "href": "weeks/week-7.html#perform",
-    "title": "Week 7 (02-06-25 to 06-06-25)",
-    "section": "Perform",
-    "text": "Perform\nAssignment 2 Examination is postponed to Monday (09-06-2025).\n\nBack to course schedule ⏎",
+    "text": "Participate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 7"
@@ -136,29 +103,7 @@
     "href": "weeks/week-5.html#participate",
     "title": "Week 5 (05-01-26 to 09-01-26)",
     "section": "Participate",
-    "text": "Participate\n🖥️ Lecture 2 - Discrete Probability Distributions\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️ Lecture 1 - Introduction to Probability",
-    "crumbs": [
-      "Weekly materials",
-      "Week 5"
-    ]
-  },
-  {
-    "objectID": "weeks/week-5.html#practice",
-    "href": "weeks/week-5.html#practice",
-    "title": "Week 5 (05-01-26 to 09-01-26)",
-    "section": "Practice",
-    "text": "Practice\n\nIt is conjectured that an impurity exists in 30% of all drinking wells in a certain rural community. In order to gain some insight into the true extent of the problem, it is determined that some testing is necessary. It is too expensive to test all of the wells in the area, so 10 are randomly selected for testing.\n\nUsing the binomial distribution, what is the probability that exactly 3 wells have the impurity, assuming that the conjecture is correct?\nWhat is the probability that more than 3 wells are impure?\nWhat is the mean and variance of the distribution of the number of drinking wells?\n\nAn automatic welding machine is being considered for use in a production process. It will be considered for purchase if it is successful on 99% of its welds. Otherwise, it will not be considered efficient. A test is to be conducted with a prototype that is to perform 100 welds. The machine will be accepted for manufacture if it misses no more than 3 welds.\n\nWhat is the probability that a good machine will be rejected?\nWhat is the probability that an inefficient machine with 95% welding success will be accepted?\n\nAn automobile manufacturer is concerned about a fault in the braking mechanism of a particular model. The fault can, on rare occasions, cause a catastrophe at high speed. The distribution of the number of cars per year that will experience the catastrophe is a Poisson random variable with λ = 5.\n\nWhat is the probability that at most 3 cars per year will experience a catastrophe?\nWhat is the probability that more than 1 car per year will experience a catastrophe?\n\nChanges in airport procedures require considerable planning. Arrival rates of aircraft are important factors that must be taken into account. Suppose small aircraft arrive at a certain airport, according to a Poisson process, at the rate of 6 per hour. Thus, the Poisson parameter for arrivals over a period of hours is µ = 6t.\n\nWhat is the probability that exactly 4 small aircraft arrive during a 1-hour period?\nWhat is the probability that at least 4 arrive during a 2-hour period?\nIf we define a working day as 12 hours, what is the probability that at least 75 small aircraft arrive during a working day?\n\nA service engineer is can be called out for maintenance on the photocopiers in the offices of four large companies, A, B, C and D. On any given week there is a probability of 0.1 that he will be called to each of these companies. The event of being called to one company is independent of whether or not he is called to any of the others.\n\nFind the probability that, on a particular day,\ni. He is called to all four companies,\nii. He is called to at least three companies,\niii. He is called to all four given that he is called to at least one,\niv. He is called to all four given that he is called to Company A.\nFind the expected value and variance of the number of these companies which call the engineer on a given day.",
-    "crumbs": [
-      "Weekly materials",
-      "Week 5"
-    ]
-  },
-  {
-    "objectID": "weeks/week-5.html#perform",
-    "href": "weeks/week-5.html#perform",
-    "title": "Week 5 (05-01-26 to 09-01-26)",
-    "section": "Perform",
-    "text": "Perform\nAssignment 1 Examination scheduled at 09.10 am to 09.50 am. To ensure that the exam runs smoothly, we have arranged the exam halls as follows: \n\nGroup 1 (Registration numbers 2023/E/001 to 2023/E/101) will be in Exam Hall 1 (First floor, Computer Engineering Department)  \nGroup 2 (Registration numbers 2023/E/103 to 2023/E/167) will be in Lecture Hall 13 (2nd floor, Admin Building)  and \nThe remaining students (Registration numbers 2023/E/168 to 2022/E/198 and re-attempt students) will be in the Auditorium (2nd floor, Admin Building). \n\nMake sure to review all sections thoroughly to ensure you’re prepared for the exam! I hope everyone follows the exam policies and cooperates with the exam administration to make the exam run smoothly. Moreover, you can access class materials by checking out the course webpage.\n\nBack to course schedule ⏎",
+    "text": "Participate\n\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 5"
@@ -2920,7 +2865,7 @@
     "href": "news.html",
     "title": "MC3020 - Probability and Statistics",
     "section": "",
-    "text": "Assignment 01: 02-01-2026 at 03.00 pm to 03.40 pm\nAssignment 02: 27-01-2026 at 09.00 am to 10.00 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 02-02-2026 to 06-02-2026 (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)",
+    "text": "Assignment 01: 02-01-2026 at 03.00 pm to 03.40 pm \nAssignment 02: 27-01-2026 at 09.00 am to 10.00 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 02-02-2026 to 06-02-2026 (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)",
     "crumbs": [
       "Course information",
       "News"
@@ -2931,7 +2876,7 @@
     "href": "news.html#important-dates-tentative",
     "title": "MC3020 - Probability and Statistics",
     "section": "",
-    "text": "Assignment 01: 02-01-2026 at 03.00 pm to 03.40 pm\nAssignment 02: 27-01-2026 at 09.00 am to 10.00 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 02-02-2026 to 06-02-2026 (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)",
+    "text": "Assignment 01: 02-01-2026 at 03.00 pm to 03.40 pm \nAssignment 02: 27-01-2026 at 09.00 am to 10.00 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 02-02-2026 to 06-02-2026 (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)",
     "crumbs": [
       "Course information",
       "News"
@@ -7825,18 +7770,7 @@
     "href": "weeks/week-6.html#participate",
     "title": "Week 6 (26-05-25 to 30-05-25)",
     "section": "Participate",
-    "text": "Participate\n🖥️Lecture 3 - Continuous Probability Distributions\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
-    "crumbs": [
-      "Weekly materials",
-      "Week 6"
-    ]
-  },
-  {
-    "objectID": "weeks/week-6.html#practice",
-    "href": "weeks/week-6.html#practice",
-    "title": "Week 6 (26-05-25 to 30-05-25)",
-    "section": "Practice",
-    "text": "Practice\n\nA discrete random variable X taking values 0,1,2,3,4,5,6 has probability mass function given by\n\n\n\nX = x\n0\n1\n2\n3\n4\n5\n6\n\n\nP (X = x)\n3k\n2k\nk\n0\n2k\n4k\n6k\n\n\n\nfor some constant k.\n\nFind the value of k.\nCalculate P (X &gt; 1).\nCalculate E(X).\nCalculate the variance of X.\nFind the variance of the random variable Y = 9 − 2X\n\nA large company has an inspection system for the batches of small compressors purchased from vendors. A batch typically contains 15 compressors. In the inspection system, a random sample of 5 is selected and all are tested. Suppose there are 3 faulty compressors in the batch of 15.\n\nWhat is the probability that for a given sample there will be 1 faulty compressor?\nWhat is the probability that the inspection will reveal more than one faulty compressor in the sample?\n\nThe current (in mA) measured in a piece of copper wire follows a uniform distribution over the interval [0, 25].\n\nWrite the probability density function (pdf) f(x).\nCalculate the mean and variance.\n\nThe time intervals (in minutes) between successive barges passing a certain point on a busy waterway are modeled by an exponential distribution with mean of 8 minutes.\n\nFind is the probability that the time interval between two successive barges is less than 5 minutes?\nFind a time t such that we can be 95% sure that the time interval between two successive barges will be greater than t.\n\nA lawyer commutes daily from his suburban home to his midtown office. The average time for a one-way trip is 24 minutes, with a standard deviation of 3.8 minutes. Assume the distribution of trip times to be normally distributed.\n\nWhat is the probability that a trip will take at least 1/2 hour?\nIf the office opens at 9:00 A.M. and the lawyer leaves his house at 8:45 A.M. daily, what percentage of the time is he late for work?\nIf he leaves the house at 8:35 A.M. and coffee is served at the office from 8:50 A.M. until 9:00 A.M., what is the probability that he misses coffee?\nFind the length of time above which we find the slowest 15% of the trips.\nFind the probability that 2 of the next 3 trips will take at least 1/2 hour.",
+    "text": "Participate",
     "crumbs": [
       "Weekly materials",
       "Week 6"
@@ -7880,18 +7814,7 @@
     "href": "weeks/week-8.html#practice",
     "title": "Week 8 (09-06-25 to 12-06-25)",
     "section": "Practice",
-    "text": "Practice\n\n\nA company produces parts for an engine. Parts specifications suggest that 95% of items meet specifications. The parts are shipped to customers in lots of 100.\n\nWhat is the probability that more than two items in a given lot will be defective?\nWhat is the probability that more than 10 items in a lot will be defective?\n\nThe serum cholesterol level X in fourteen-year-old boys has approximately a normal distribution with a mean of 170 and a standard deviation of 30.\n\nFind the probability that the serum cholesterol level of a randomly chosen fourteen-year-old boy exceeds 230.\nIn a middle school, there are 300 fourteen-year-old boys. Find the probability that at least eight boys have a serum cholesterol level that exceeds 230.",
-    "crumbs": [
-      "Weekly materials",
-      "Week 8"
-    ]
-  },
-  {
-    "objectID": "weeks/week-8.html#perform",
-    "href": "weeks/week-8.html#perform",
-    "title": "Week 8 (09-06-25 to 12-06-25)",
-    "section": "Perform",
-    "text": "Perform\nAssignment 2 Examination is scheduled from 3:05 pm to 3:40 pm on Monday (09-06-2025). To ensure that the exam runs smoothly, we have arranged the exam halls as follows: \n\nGroup 1 (Registration numbers 2023/E/001 to 2023/E/101) will be in Exam Hall 1 (First floor, Computer Engineering Department)  \nGroup 2 (Registration numbers 2023/E/103 to 2023/E/167) will be in Lecture Hall 13 (2nd floor, Admin Building)  and \nThe remaining students (Registration numbers 2023/E/168 to 2022/E/198 and re-attempt students) will be in the Auditorium (2nd floor, Admin Building). \n\nMake sure to review all sections thoroughly to ensure you’re prepared for the exam! I hope everyone follows the exam policies and cooperates with the exam administration to make the exam run smoothly. Moreover, you can access class materials by checking out the course webpage.\n\nBack to course schedule ⏎",
+    "text": "Practice\n\n\nA company produces parts for an engine. Parts specifications suggest that 95% of items meet specifications. The parts are shipped to customers in lots of 100.\n\nWhat is the probability that more than two items in a given lot will be defective?\nWhat is the probability that more than 10 items in a lot will be defective?\n\nThe serum cholesterol level X in fourteen-year-old boys has approximately a normal distribution with a mean of 170 and a standard deviation of 30.\n\nFind the probability that the serum cholesterol level of a randomly chosen fourteen-year-old boy exceeds 230.\nIn a middle school, there are 300 fourteen-year-old boys. Find the probability that at least eight boys have a serum cholesterol level that exceeds 230.\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 8"
