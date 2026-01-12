@@ -7757,7 +7757,7 @@
   {
     "objectID": "weeks/week-6.html",
     "href": "weeks/week-6.html",
-    "title": "Week 6 (26-05-25 to 30-05-25)",
+    "title": "Week 6 (12-01-26 to 16-01-26)",
     "section": "",
     "text": "📖 Read the syllabus\n📖 Read the support resources",
     "crumbs": [
@@ -7768,7 +7768,7 @@
   {
     "objectID": "weeks/week-6.html#prepare",
     "href": "weeks/week-6.html#prepare",
-    "title": "Week 6 (26-05-25 to 30-05-25)",
+    "title": "Week 6 (12-01-26 to 16-01-26)",
     "section": "",
     "text": "📖 Read the syllabus\n📖 Read the support resources",
     "crumbs": [
@@ -7779,9 +7779,20 @@
   {
     "objectID": "weeks/week-6.html#participate",
     "href": "weeks/week-6.html#participate",
-    "title": "Week 6 (26-05-25 to 30-05-25)",
+    "title": "Week 6 (12-01-26 to 16-01-26)",
     "section": "Participate",
-    "text": "Participate",
+    "text": "Participate\n\n🖥️ Lecture 3 -Continuous Probability Distributionss\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
+    "crumbs": [
+      "Weekly materials",
+      "Week 6"
+    ]
+  },
+  {
+    "objectID": "weeks/week-6.html#practice",
+    "href": "weeks/week-6.html#practice",
+    "title": "Week 6 (12-01-26 to 16-01-26)",
+    "section": "Practice",
+    "text": "Practice\n\n\nA company produces parts for an engine. Parts specifications suggest that 95% of items meet specifications. The parts are shipped to customers in lots of 100.\n\nWhat is the probability that more than two items in a given lot will be defective?\nWhat is the probability that more than 10 items in a lot will be defective?\n\nThe serum cholesterol level X in fourteen-year-old boys has approximately a normal distribution with a mean of 170 and a standard deviation of 30.\n\nFind the probability that the serum cholesterol level of a randomly chosen fourteen-year-old boy exceeds 230.\nIn a middle school, there are 300 fourteen-year-old boys. Find the probability that at least eight boys have a serum cholesterol level that exceeds 230.",
     "crumbs": [
       "Weekly materials",
       "Week 6"
@@ -7825,7 +7836,7 @@
     "href": "weeks/week-8.html#practice",
     "title": "Week 8 (09-06-25 to 12-06-25)",
     "section": "Practice",
-    "text": "Practice\n\n\nA company produces parts for an engine. Parts specifications suggest that 95% of items meet specifications. The parts are shipped to customers in lots of 100.\n\nWhat is the probability that more than two items in a given lot will be defective?\nWhat is the probability that more than 10 items in a lot will be defective?\n\nThe serum cholesterol level X in fourteen-year-old boys has approximately a normal distribution with a mean of 170 and a standard deviation of 30.\n\nFind the probability that the serum cholesterol level of a randomly chosen fourteen-year-old boy exceeds 230.\nIn a middle school, there are 300 fourteen-year-old boys. Find the probability that at least eight boys have a serum cholesterol level that exceeds 230.\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
+    "text": "Practice\n\n–&gt;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 8"
