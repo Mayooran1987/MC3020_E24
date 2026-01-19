@@ -70,38 +70,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <meta property="og:title" content="Week 9 (16-06-25 to 20-06-25) – MC3020 - Probability and Statistics">
 <meta property="og:description" content="Homepage for MC3020 - Probability and Statistics at University of Jaffna, April,2025.">
+<meta property="og:image" content="https://mayooran1987.github.io/MC3020-E23/weeks/images/clipboard-1030888374.gif">
 <meta property="og:site_name" content="MC3020 - Probability and Statistics">
 </head>
 
@@ -402,17 +374,7 @@ window.Quarto = {
 </section>
 <section id="practice" class="level2">
 <h2 class="anchored" data-anchor-id="practice">Practice</h2>
-<!-- ![](/images/asap.jpg){width="87"} -->
-<ol type="1">
-<li><p>The heights of 1000 students are approximately normally distributed with a mean of 174.5 centimetres and a standard deviation of 6.9 centimetres. Suppose 200 random samples of size 25 are drawn from this population and the means are recorded to the nearest tenth of a centimetre. Determine</p>
-<ol type="a">
-<li><p>the mean and standard deviation of the sampling distribution of <span class="math inline">\(\bar{X}\)</span>.</p></li>
-<li><p>the number of sample means falling below 172.0 centimeters.</p></li>
-<li><p>the number of sample means that fall between 172.5 and 175.8 centimeters inclusive.</p></li>
-</ol></li>
-<li><p>A manufacturer of MP3 players conducts a set of comprehensive tests on the electrical functions of its product. All MP3 players must pass all tests before being sold. Out of a random sample of 500 MP3 players, 15 failed one or more tests. Find a 90% confidence interval for the proportion of MP3 players from the population that pass all tests.</p></li>
-<li><p>The production employees at a food packaging facility have been surveyed to determine the proportion of employees who prefer rotating shifts over fixed shifts. Previous surveys suggest this proportion ranges from 25% to 45%. Facility management wants to construct a 95% confidence interval estimate for the true proportion, with a margin of error no larger than 5%. What sample size should they use for the survey?</p></li>
-</ol>
+<p><img src="images/clipboard-1030888374.gif" class="img-fluid"></p>
 <!-- ## Perform -->
 <!-- The mid-semester examination will be held on Monday [***(16/06/2025) from 02:00 pm to 02:50 pm***]{.underline} at Exam Hall 1 and Hall 2 (a detailed group list is given below) of the Faculty. We will provide you with writing materials for answering. Non-authorized documents are strictly prohibited in the exam hall. If it is determined that you have violated any policies during this exam, you will receive a score of zero for this mid-exam, without any exceptions or considerations. -->
 <!-- To ensure that the exam runs smoothly, we have arranged the exam halls as follows:  -->

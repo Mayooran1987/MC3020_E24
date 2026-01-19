@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 7 (02-06-25 to 06-06-25) – MC3020 - Probability and Statistics</title>
+<title>Week 7 (19-01-26 to 23-01-26) – MC3020 - Probability and Statistics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,10 +70,38 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Week 7 (02-06-25 to 06-06-25) – MC3020 - Probability and Statistics">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Week 7 (19-01-26 to 23-01-26) – MC3020 - Probability and Statistics">
 <meta property="og:description" content="Homepage for MC3020 - Probability and Statistics at University of Jaffna, April,2025.">
-<meta property="og:image" content="https://mayooran1987.github.io/MC3020-E23/weeks/images/clipboard-1030888374.gif">
 <meta property="og:site_name" content="MC3020 - Probability and Statistics">
 </head>
 
@@ -332,6 +360,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#prepare" id="toc-prepare" class="nav-link active" data-scroll-target="#prepare">Prepare</a></li>
   <li><a href="#participate" id="toc-participate" class="nav-link" data-scroll-target="#participate">Participate</a></li>
+  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://mayooran1987.github.io/MC3020-E23/issues/new" class="toc-action"><i class="bi bi-git"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -340,7 +369,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../weeks/week-1.html">Weekly materials</a></li><li class="breadcrumb-item"><a href="../weeks/week-7.html">Week 7</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Week 7 (02-06-25 to 06-06-25)</h1>
+<h1 class="title">Week 7 (19-01-26 to 23-01-26)</h1>
 </div>
 
 
@@ -364,40 +393,28 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="participate" class="level2">
 <h2 class="anchored" data-anchor-id="participate">Participate</h2>
-<p><img src="images/clipboard-1030888374.gif" class="img-fluid"></p>
-<!-- 🖥️[Lecture 3](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx) - Continuous Probability Distributions -->
-<!-- ```{=html} -->
-<!-- <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F3%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe> -->
-<!-- ``` -->
-<!-- 🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations. -->
-<!-- 🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions -->
-<!-- 🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability -->
-<!-- ## Practice -->
-<!-- 1.  Consider a civil engineering project where traffic flow at a certain intersection needs to be analyzed. The number of vehicles waiting at a traffic signal follows the following probability distribution: -->
-<!--     |           |      |     |      |      |      |      | -->
-<!--     |-----------|------|-----|------|------|------|------| -->
-<!--     | X = x     | 1    | 2   | 3    | 4    | 5    | 6    | -->
-<!--     | P (X = x) | 0.20 | k   | 0.25 | 0.10 | 0.10 | 0.05 | -->
-<!--     Here, z represents the number of vehicles waiting, and P(X = x) is the probability of observing vehicles waiting. Given this information, let’s solve the following questions: -->
-<!--     a)  Determine the value of k. -->
-<!--     b)  Estimate the expected number and standard deviation of vehicles waiting at the traffic signal. -->
-<!--     c)  What is the probability that fewer than three vehicles are waiting at the traffic signal? -->
-<!--     d)  What is the probability that at least four vehicles are waiting at the traffic signal? -->
-<!-- 2.  In the November 1990 issue of Chemical Engineering Progress, a study discussed the percent purity of oxygen from a certain supplier. Assume that the mean was 99.61 with a standard deviation of 0.08. Assume that the distribution of percent purity was approximately normal. -->
-<!--     a)  What percentage of the purity values would you expect to be between 99.5 and 99.7? -->
-<!--     b)  What purity value would you expect to exceed exactly 5% of the population? -->
-<!-- 3.  High accumulation of certain pollutants in the atmosphere can adversely affect the environment and human health, which is a concern for the Ariviyal Nagar region, particularly the vicinity of the University of Jaffna. Elevated levels of pollutants such as particulate matter, sulphur dioxide, and nitrogen oxides can lead to respiratory issues and environmental degradation. Nitrogen oxides (NOx) are primary contributors to air pollution, primarily originating from vehicle emissions, industrial processes, and the combustion of fossil fuels. Suppose the distribution of nitrogen oxide emissions from vehicles in the Ariviyal Nagar region can be modelled adequately by a normal distribution with a mean emission level (μ) of 80 ppb (parts per billion) and standard deviation(σ) of 12 ppb. -->
-<!--     a)  What is the probability that a randomly selected vehicle from the Ariviyal Nagar region will have emission levels less than 50 ppb? -->
-<!--     b)  What is the probability that a randomly selected vehicle from the Ariviyal Nagar region will have emission levels greater than 100 ppb? -->
-<!--     c)  What is the probability that a randomly selected vehicle from the Ariviyal Nagar region will have emission levels between 40 ppb and 116 ppb? -->
-<!-- 4.  The operator of a pumping station has observed that demand for water during early afternoon hours follows an approximately exponential distribution with a mean of 100 cubic feet per second (cfs). -->
-<!--     a)  Find the probability that the demand will exceed 200 cfs during the early afternoon on a randomly selected day. -->
-<!--     b)  What water-pumping capacity should the station maintain during the early afternoons so that the probability that demand will exceed capacity on a randomly selected day is only 0.01? -->
-<!-- 5.  The heights of 1000 students are approximately normally distributed with a mean of 174.5 centimetres and a standard deviation of 6.9 centimetres. Suppose 200 random samples of size 25 are drawn from this population and the means are recorded to the nearest tenth of a centimetre. Determine -->
-<!--     a)  the mean and standard deviation of the sampling distribution of $\bar{X}$. -->
-<!--     b)  the number of sample means falling below 172.0 centimeters. -->
-<!--     c)  the number of sample means that fall between 172.5 and 175.8 centimeters inclusive. -->
-<!-- ## Perform -->
+<!-- ![](images/clipboard-1030888374.gif) -->
+<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020_E24/raw/main/Lect_4.pptx">Lecture 4</a></p>
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%5FE24%2Frefs%2Fheads%2Fmain%2FLect%5F4%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020_E24/raw/main/Statistical_table_MC3020.pdf">Statistical Table</a> - Statistical Table for probability estimations.</p>
+<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020_E24/raw/main/Lect_3.pptx">Lecture 3</a> -Continuous Probability Distributions</p>
+<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020_E24/raw/main/Lect_2.pptx">Lecture 2</a> - Discrete Probability Distributions</p>
+<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020_E24/raw/main/Lect_1.pptx">Lecture 1</a> - Introduction to Probability</p>
+</section>
+<section id="practice" class="level2">
+<h2 class="anchored" data-anchor-id="practice">Practice</h2>
+<ol type="1">
+<li><p>An efficiency expert wishes to determine the average time that it takes to drill three holes in a certain metal clamp. How large a sample will she need to be <span class="math inline">\(95\%\)</span> confident that her sample mean will be within 15 seconds of the true mean? Assume that it is known from previous studies that <span class="math inline">\(\sigma = 40\)</span> seconds.</p></li>
+<li><p>A machine is used to manufacture cylindrical metal pieces. To evaluate the precision of the machine, a sample of metal pieces was collected, and their diameters were measured. The recorded diameters (in centimetres) are as follows: 1.01, 0.97, 1.03, 1.04, 0.99, 0.98, 0.99, 1.01, and 1.03. (Assuming the diameters are approximately normally distributed.)</p>
+<ol type="a">
+<li>Compute the sample mean and standard deviation of the diameters.</li>
+<li>Construct a 99% confidence interval for the true mean diameter of all metal pieces produced by the machine.</li>
+<li>Construct a 99% confidence interval for the population variance <span class="math inline">\(\sigma^2\)</span> of the diameters of all cylindrical metal pieces produced by the machine.</li>
+<li>By using the results from part(c), construct a 99% confidence interval for the standard deviation of the diameters of all cylindrical metal pieces produced by the machine.</li>
+</ol></li>
+<li><p>The Edison Electric Institute has published figures on the number of kilowatt hours used annually by various home appliances. It is claimed that a vacuum cleaner uses an average of 46 kilowatt hours per year. If a random sample of 12 homes included in a planned study indicates that vacuum cleaners use an average of 42 kilowatt hours per year with a standard deviation of 11.9 kilowatt hours, does this suggest at the 0.05 level of significance that vacuum cleaners use, on average, less than 46 kilowatt hours annually? Assume the population of kilowatt hours to be normal.</p></li>
+<li><p>A manufacturer of sports equipment has developed a new synthetic fishing line that the company claims has a mean breaking strength of 8 kilograms with a standard deviation of 0.5 kilograms. Test the hypothesis that <span class="math inline">\(\mu = 8\)</span> kilograms against the alternative that <span class="math inline">\(\mu = 8\)</span> kilograms if a random sample of 50 lines is tested and found to have a mean breaking strength of 7.8 kilograms. Use a 0.01 level of significance. <!-- ## Perform --></p></li>
+</ol>
 <!-- Assignment 2 Examination is postponed to Monday (09-06-2025). -->
 <div style="font-size: 0.875em;">
 <p>Back to <a href=".." title="Course schedule">course schedule</a> ⏎</p>
