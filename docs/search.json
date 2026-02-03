@@ -2,7 +2,7 @@
   {
     "objectID": "weeks/week-9.html",
     "href": "weeks/week-9.html",
-    "title": "Week 9 (16-06-25 to 20-06-25)",
+    "title": "Week 9 (02-02-26 to 06-02-26)",
     "section": "",
     "text": "📖 Read the syllabus\n📖 Read the support resources",
     "crumbs": [
@@ -13,7 +13,7 @@
   {
     "objectID": "weeks/week-9.html#prepare",
     "href": "weeks/week-9.html#prepare",
-    "title": "Week 9 (16-06-25 to 20-06-25)",
+    "title": "Week 9 (02-02-26 to 06-02-26)",
     "section": "",
     "text": "📖 Read the syllabus\n📖 Read the support resources",
     "crumbs": [
@@ -24,9 +24,9 @@
   {
     "objectID": "weeks/week-9.html#participate",
     "href": "weeks/week-9.html#participate",
-    "title": "Week 9 (16-06-25 to 20-06-25)",
+    "title": "Week 9 (02-02-26 to 06-02-26)",
     "section": "Participate",
-    "text": "Participate\n🖥️Lecture 4 - Statistical Inferences\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️Lecture 3 - Continuous Probability Distributions\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
+    "text": "Participate\n\n🖥️ Lecture 4\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️ Lecture 3 -Continuous Probability Distributions\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
     "crumbs": [
       "Weekly materials",
       "Week 9"
@@ -35,7 +35,7 @@
   {
     "objectID": "weeks/week-9.html#practice",
     "href": "weeks/week-9.html#practice",
-    "title": "Week 9 (16-06-25 to 20-06-25)",
+    "title": "Week 9 (02-02-26 to 06-02-26)",
     "section": "Practice",
     "text": "Practice\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
     "crumbs": [
@@ -3119,7 +3119,7 @@
     "href": "index.html",
     "title": "MC3020 - Probability and Statistics",
     "section": "",
-    "text": "Welcome to Probability and Statistics! • Upcoming Examination: Assignment 02: 30-01-2026 at 11.00 am to 11.40 am • Check the course website regularly for updates •  \n::::\n\nWelcome to Probability and Statistics!\n\nEngineering today operates in an increasingly data-rich environment. This course is designed to introduce you to statistical concepts and methods that will encourage you to operate confidently and effectively in this environment. The course introduces the presentation, analysis and interpretation of quantitative data in an engineering context. Topics include using the R program to construct graphical displays and calculate summary statistics, probability, confidence intervals, hypothesis testing, regression, and time series analysis.\nTopics Statistics has two flavours: descriptive statistics, where we summarize observed data, and inferential statistics, where we make conclusions about the population the data are drawn from. Probability is the branch of mathematics that describes how samples randomly drawn from a population will behave and provides the basis for connecting the data and the population from which it is drawn.\nMany statistical concepts take time to understand and master. You have probably already met some statistical methods and can calculate averages and draw scatterplots. However, you will still need to learn how to interpret them to give information about practical problems, which is best achieved by working through and thinking about various examples. There is nothing special about statistical reasoning. Statistical tools supplement and refine our natural intuition and common sense. When you are studying, try asking yourself why each conclusion makes sense. You may have to learn some techniques and definitions by rote when you first meet them, but it is helpful to look for a pattern. Review each completed example to see how the statistical technique has refined your understanding of the problem. This is particularly important if you have a fear of numbers and symbols. Try looking at the problem, the data and the conclusion first, then try to understand how the technique has led from one to the other.\nThe approach to understanding statistics is no different from any other subject. Plan ahead, work steadily, and you can achieve maximum success for your effort. Please contact me if you have any questions about this course’s teaching and learning format.\nYou don’t need a strong mathematical background to succeed in this course. We teach you to use R to summarise, display and analyse data. We explore data collection techniques, including sampling methods and experimental design. We introduce you to probability and statistical inference methods (confidence intervals, hypothesis testing and regression) with an emphasis on communicating results in context. We finish the course with time series analysis and quality management.\nWe hope you enjoy taking this course as much as we have enjoyed putting it together. We are keen to get feedback from you on things you like as well as anything you don’t like.\nWe wish you well with your studies.",
+    "text": "Welcome to Probability and Statistics! • Upcoming Examination: Mid Semester Exam: 11-02-2026• Check the course website regularly for updates •  \n::::\n\nWelcome to Probability and Statistics!\n\nEngineering today operates in an increasingly data-rich environment. This course is designed to introduce you to statistical concepts and methods that will encourage you to operate confidently and effectively in this environment. The course introduces the presentation, analysis and interpretation of quantitative data in an engineering context. Topics include using the R program to construct graphical displays and calculate summary statistics, probability, confidence intervals, hypothesis testing, regression, and time series analysis.\nTopics Statistics has two flavours: descriptive statistics, where we summarize observed data, and inferential statistics, where we make conclusions about the population the data are drawn from. Probability is the branch of mathematics that describes how samples randomly drawn from a population will behave and provides the basis for connecting the data and the population from which it is drawn.\nMany statistical concepts take time to understand and master. You have probably already met some statistical methods and can calculate averages and draw scatterplots. However, you will still need to learn how to interpret them to give information about practical problems, which is best achieved by working through and thinking about various examples. There is nothing special about statistical reasoning. Statistical tools supplement and refine our natural intuition and common sense. When you are studying, try asking yourself why each conclusion makes sense. You may have to learn some techniques and definitions by rote when you first meet them, but it is helpful to look for a pattern. Review each completed example to see how the statistical technique has refined your understanding of the problem. This is particularly important if you have a fear of numbers and symbols. Try looking at the problem, the data and the conclusion first, then try to understand how the technique has led from one to the other.\nThe approach to understanding statistics is no different from any other subject. Plan ahead, work steadily, and you can achieve maximum success for your effort. Please contact me if you have any questions about this course’s teaching and learning format.\nYou don’t need a strong mathematical background to succeed in this course. We teach you to use R to summarise, display and analyse data. We explore data collection techniques, including sampling methods and experimental design. We introduce you to probability and statistical inference methods (confidence intervals, hypothesis testing and regression) with an emphasis on communicating results in context. We finish the course with time series analysis and quality management.\nWe hope you enjoy taking this course as much as we have enjoyed putting it together. We are keen to get feedback from you on things you like as well as anything you don’t like.\nWe wish you well with your studies.",
     "crumbs": [
       "Course information",
       "Overview"
