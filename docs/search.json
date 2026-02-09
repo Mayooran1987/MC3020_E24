@@ -37,7 +37,7 @@
     "href": "weeks/week-9.html#practice",
     "title": "Week 9 (02-02-26 to 06-02-26)",
     "section": "Practice",
-    "text": "Practice\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
+    "text": "Practice\n\nThe Edison Electric Institute has published figures on the number of kilowatt hours used annually by various home appliances. It is claimed that a vacuum cleaner uses an average of 46 kilowatt hours per year. If a random sample of 12 homes included in a planned study indicates that vacuum cleaners use an average of 42 kilowatt hours per year with a standard deviation of 11.9 kilowatt hours, does this suggest at the 0.05 level of significance that vacuum cleaners use, on average, less than 46 kilowatt hours annually? Assume the population of kilowatt hours to be normal.\nA manufacturer of sports equipment has developed a new synthetic fishing line that the company claims has a mean breaking strength of 8 kilograms with a standard deviation of 0.5 kilograms. Test the hypothesis that \\(\\mu=8\\) kilograms against the alternative that \\(\\mu=8\\) kilograms if a random sample of 50 lines is tested and found to have a mean breaking strength of 7.8 kilograms. Use a 0.01 level of significance.\nPast data indicate that the amount of money contributed by the working residents of a large city to a volunteer rescue squad is a normal random variable with a standard deviation of \\(\\$1.40\\). It has been suggested that the contributions to the rescue squad from just the employees of the sanitation department are much more variable. If the contributions of a random sample of 12 employees from the sanitation department have a standard deviation of \\(\\$1.75\\), can we conclude at the 0.01 level of significance that the variance of the contributions of all sanitation workers is greater than that of all workers living in the city?\n\nA factory produces 80,000 pistons daily. The acceptable defect rate is 0.8%. From a sample of 600 pistons, 1.2% were found defective.\nEstimate the proportion of defective pistons in the sample.\nConstruct a 95% confidence interval for the true proportion of defective pistons.\nTest whether the defect rate is higher than 0.8% at a 5% significance level.\nDoes the confidence interval support the hypothesis test conclusion?\n\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 9"
@@ -2887,7 +2887,7 @@
     "href": "news.html",
     "title": "MC3020 - Probability and Statistics",
     "section": "",
-    "text": "Assignment 01: 02-01-2026 at 11.00 am to 11.40 am\nAssignment 02: 30-01-2026 at 11.00 am to 11.40 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 02-02-2026 to 06-02-2026 (to be scheduled by the Dean’s office)\nEnd-of-course examination (to be scheduled)",
+    "text": "Assignment 01: 02-01-2026 at 11.00 am to 11.40 am\nAssignment 02: 30-01-2026 at 11.00 am to 11.40 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 11-02-2026\nEnd-of-course examination (to be scheduled)",
     "crumbs": [
       "Course information",
       "News"
@@ -2898,7 +2898,7 @@
     "href": "news.html#important-dates-tentative",
     "title": "MC3020 - Probability and Statistics",
     "section": "",
-    "text": "Assignment 01: 02-01-2026 at 11.00 am to 11.40 am\nAssignment 02: 30-01-2026 at 11.00 am to 11.40 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 02-02-2026 to 06-02-2026 (to be scheduled by the Dean’s office)\nEnd-of-course examination (to be scheduled)",
+    "text": "Assignment 01: 02-01-2026 at 11.00 am to 11.40 am\nAssignment 02: 30-01-2026 at 11.00 am to 11.40 am\nAssignment 03: 03-03-2026 at 09.00 am to 10.00 am\nAssignment 04: 17-03-2026 at 09.00 am to 10.00 am\nMid-semester examination: 11-02-2026\nEnd-of-course examination (to be scheduled)",
     "crumbs": [
       "Course information",
       "News"
@@ -7504,7 +7504,7 @@
   {
     "objectID": "weeks/week-10.html",
     "href": "weeks/week-10.html",
-    "title": "Week 10 (23-06-25 to 27-06-25)",
+    "title": "Week 10 (09-02-26 to 13-02-26)",
     "section": "",
     "text": "📖 Read the syllabus\n📖 Read the support resources",
     "crumbs": [
@@ -7515,7 +7515,7 @@
   {
     "objectID": "weeks/week-10.html#prepare",
     "href": "weeks/week-10.html#prepare",
-    "title": "Week 10 (23-06-25 to 27-06-25)",
+    "title": "Week 10 (09-02-26 to 13-02-26)",
     "section": "",
     "text": "📖 Read the syllabus\n📖 Read the support resources",
     "crumbs": [
@@ -7526,9 +7526,9 @@
   {
     "objectID": "weeks/week-10.html#participate",
     "href": "weeks/week-10.html#participate",
-    "title": "Week 10 (23-06-25 to 27-06-25)",
+    "title": "Week 10 (09-02-26 to 13-02-26)",
     "section": "Participate",
-    "text": "Participate\n🖥️Lecture 4 - Statistical Inferences\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️Lecture 3 - Continuous Probability Distributions\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
+    "text": "Participate\n\n🖥️Lecture 5 - Statistical Inferences II\nThis is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.\n\n🖥️ Statistical Table - Statistical Table for probability estimations.\n🖥️Lecture 4 - Statistical Inferences I\n🖥️ Lecture 3 -Continuous Probability Distributions\n🖥️ Lecture 2 - Discrete Probability Distributions\n🖥️ Lecture 1 - Introduction to Probability",
     "crumbs": [
       "Weekly materials",
       "Week 10"
@@ -7537,9 +7537,31 @@
   {
     "objectID": "weeks/week-10.html#practice",
     "href": "weeks/week-10.html#practice",
-    "title": "Week 10 (23-06-25 to 27-06-25)",
+    "title": "Week 10 (09-02-26 to 13-02-26)",
     "section": "Practice",
-    "text": "Practice\n\n\n\n\n\n\n\n\n\n\n\n\nBack to course schedule ⏎",
+    "text": "Practice",
+    "crumbs": [
+      "Weekly materials",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "weeks/week-10.html#practice-1",
+    "href": "weeks/week-10.html#practice-1",
+    "title": "Week 10 (09-02-26 to 13-02-26)",
+    "section": "Practice",
+    "text": "Practice\n\nInvestigating Student Engagement in MC3020 Lectures:  The MC3020 course coordinator at the University of Jaffna is evaluating two teaching methods to address low student engagement during lectures. Method A employs interactive quizzes, while Method B utilizes group discussions. A random sample of seven students was assigned to Method A, and another seven students were assigned to Method B. The active participation time (minutes per lecture) for each student was recorded as follows:\nMethod A (Interactive Quizzes): 8, 12, 13, 9, 3, 10, 8\nMethod B (Group Discussions): 10, 8, 12, 15, 6, 8, 11\nAssuming active participation times follow normal distributions in the population and using a 0.05 significance level, address the following:\n\nEstimate the population mean difference in engagement time (Method A – Method B).\nTest whether the population variances of engagement times are equal.\nConstruct a 95% confidence interval for the population mean difference (Method A – Method B).\nTest whether the two methods differ significantly in their effect on student engagement.\nCompare your results from Part (c) (confidence interval) and Part (d) (hypothesis test). Explain how these results are consistent or inconsistent with each other in light of the conclusion about mean differences.\n\nA study was conducted in which two types of engines, A and B, were compared. Gas mileage, in miles per gallon, was measured. Fifty experiments were conducted using engine type A and 75 experiments were done with engine type B. The gasoline used and other conditions were held constant. The average gas mileage was 36 miles per gallon for engine A and 42 miles per gallon for engine B. Find a 96% confidence interval on \\(\\mu_B −\\mu_A\\), where \\(\\mu_A\\) and \\(\\mu_B\\) are population mean gas mileages for engines A and B respectively. Assume that the population standard deviations are 6 and 8 for engines A and B, respectively.\nA study was conducted by the Department of Zoology at the Virginia Tech to estimate the difference in the amounts of the chemical orthophosphorus measured at two different stations on the James River. Orthophosphorus was measured in milligrams per liter. Fifteen samples were collected from station 1, and 12 samples were obtained from station 2. The 15 samples from station 1 had an average orthophosphorus content of 3.84 milligrams per liter and a standard deviation of 3.07 milligrams per liter, while the 12 samples from station 2 had an average content of 1.49 milligrams per liter and a standard deviation of 0.80 milligram per liter. Find a 95% confidence interval for the difference in the true average orthophosphorus contents at these two stations, assuming that the observations came from normal populations with different variances.\nAn experiment was performed to compare the abrasive wear of two different laminated materials. Twelve pieces of material 1 were tested by exposing each piece to a machine measuring wear. Ten pieces of material 2 were similarly tested. In each case, the depth of wear was observed. The samples of material 1 gave an average (coded) wear of 85 units with a sample standard deviation of 4, while the samples of material 2 gave an average of 81 with a sample standard deviation of 5. Assume that the populations to be approximately normal with equal variances.\n\nConstruct a 95% confidence interval for the difference in mean wear between Material 1 and Material 2.\nTest, at the 0.05 level of significance, whether the mean wear of Material 1 exceeds that of Material 2 by more than 2 units.\n\nThe following data represent the running times of films produced by two motion-picture companies.\n\n\n\nCompany\nTime (minutes)\n\n\n\n\nI\n103 94 110 87 98\n\n\nII\n97 82 123 92 175 88 118\n\n\n\nAssume that the running-time differences are approximately normally distributed with unequal variances.\n\nCompute a 90% confidence interval for the difference between the average running times of films produced by the two companies.\nTest, at the 0.10 level of significance, the hypothesis that the average running time of Company 2 exceeds that of Company 1 by 10 minutes, against the alternative that the difference is less than 10 minutes.",
+    "crumbs": [
+      "Weekly materials",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "weeks/week-10.html#perform",
+    "href": "weeks/week-10.html#perform",
+    "title": "Week 10 (09-02-26 to 13-02-26)",
+    "section": "Perform",
+    "text": "Perform\n\nMid Semester Examination scheduled on February 11, 2026 (Wednesday). To ensure that the exam runs smoothly, we have arranged the exam halls as follows: \n\nGroup 1 (Registration numbers 2024/E/001 to 2024/E/101) will be in Exam Hall 1 (First floor, Computer Engineering Department)  \nGroup 2 (Registration numbers 2024/E/102 to 2024/E/198and re-attempt students) will be in Exam Hall 2 (Drawing Hall 2nd floor, Admin Building).\n\nMake sure to review all sections thoroughly to ensure you’re prepared for the exam! I hope everyone follows the exam policies and cooperates with the exam administration to make the exam run smoothly. Moreover, you can access class materials by checking out the course webpage.\n\nBack to course schedule ⏎",
     "crumbs": [
       "Weekly materials",
       "Week 10"
