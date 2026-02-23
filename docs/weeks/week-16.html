@@ -73,39 +73,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <meta property="og:title" content="Week 16 (23-03-26 to 27-03-26) – MC3020 - Probability and Statistics">
 <meta property="og:description" content="Homepage for MC3020 - Probability and Statistics at University of Jaffna, April,2025.">
-<meta property="og:image" content="https://mayooran1987.github.io/MC3020-E23/weeks/images/R_Multiple.PNG">
+<meta property="og:image" content="https://mayooran1987.github.io/MC3020-E23/weeks/images/clipboard-1030888374.gif">
 <meta property="og:site_name" content="MC3020 - Probability and Statistics">
 </head>
 
@@ -523,12 +494,7 @@ window.Quarto = {
    
   <ul>
   <li><a href="#prepare" id="toc-prepare" class="nav-link active" data-scroll-target="#prepare">Prepare</a></li>
-  <li><a href="#participate" id="toc-participate" class="nav-link" data-scroll-target="#participate">Participate</a>
-  <ul class="collapse">
-  <li><a href="#lecture-schedule" id="toc-lecture-schedule" class="nav-link" data-scroll-target="#lecture-schedule"><strong>Lecture Schedule</strong></a></li>
-  </ul></li>
-  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a></li>
-  <li><a href="#perform" id="toc-perform" class="nav-link" data-scroll-target="#perform">Perform</a></li>
+  <li><a href="#participate" id="toc-participate" class="nav-link" data-scroll-target="#participate">Participate</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://mayooran1987.github.io/MC3020-E23/issues/new" class="toc-action"><i class="bi bi-git"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -562,320 +528,98 @@ window.Quarto = {
 </section>
 <section id="participate" class="level2">
 <h2 class="anchored" data-anchor-id="participate">Participate</h2>
-<section id="lecture-schedule" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-schedule"><strong>Lecture Schedule</strong></h3>
-<ul>
-<li><p><strong>Monday:</strong></p>
-<ul>
-<li>1:55 PM – 2:50 PM and 3:10 PM – 4:05 PM</li>
-</ul></li>
-<li><p><strong>Tuesday:</strong></p>
-<ul>
-<li>8:00 AM – 8:55 AM and 8:55 AM – 9:50 AM</li>
-</ul></li>
-<li><p><strong>Thursday:</strong></p>
-<ul>
-<li>8:00 AM – 8:55 AM and 8:55 AM – 9:50 AM</li>
-</ul></li>
-</ul>
-<p>🖥️<a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_6.pptx">Lecture 6</a> - Association between Two Variables</p>
-<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F6%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf">Statistical Table</a> - Statistical Table for probability estimations.</p>
-<p>🖥️<a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_5.pptx">Lecture 5</a> - Statistical Inferences II</p>
-<p>🖥️<a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_4.pptx">Lecture 4</a> - Statistical Inferences I</p>
-<p>🖥️<a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx">Lecture 3</a> - Continuous Probability Distributions</p>
-<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx">Lecture 2</a> - Discrete Probability Distributions</p>
-<p>🖥️ <a href="https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx">Lecture 1</a> - Introduction to Probability</p>
-</section>
-</section>
-<section id="practice" class="level2">
-<h2 class="anchored" data-anchor-id="practice">Practice</h2>
-<ol type="1">
-<li><p>Suppose you are conducting an experiment to study the relationship between the fuel consumption of a fleet vehicle and various factors such as engine displacement (L), average speed (km/h), and trip duration (hours). You collected data from multiple vehicles and obtained the following dataset :</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Vehicle</th>
-<th>Engine Displacement (L)</th>
-<th>Average Speed (km/h)</th>
-<th>Trip Duration (hours)</th>
-<th>Fuel Consumption (liters)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>2.0</td>
-<td>60</td>
-<td>1.5</td>
-<td>9.2</td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>2.5</td>
-<td>70</td>
-<td>2.0</td>
-<td>12.5</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>1.8</td>
-<td>55</td>
-<td>1.8</td>
-<td>8.4</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>3.0</td>
-<td>80</td>
-<td>2.5</td>
-<td>15.6</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>2.2</td>
-<td>65</td>
-<td>2.0</td>
-<td>11.0</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>2.8</td>
-<td>75</td>
-<td>2.2</td>
-<td>14.0</td>
-</tr>
-</tbody>
-</table>
-<p>To utilize this data for predictive analysis and better manage water resources, you need to answer the following questions based on the given R output:</p></li>
-</ol>
-<!-- -->
-<ol type="a">
-<li>Find the multiple linear regression line to determine the relationship between fuel consumption (dependent variable) and engine displacement, average speed, and trip duration (independent variables).</li>
-<li>Interpret the coefficients of the regression equation in the context of the problem.</li>
-<li>Use the regression equation to predict the fuel consumption for a vehicle with the following specifications: engine displacement = 2.4 L, average speed = 68 km/h, and trip duration = 2 hours.</li>
-<li>Calculate the coefficient of determination <span class="math inline">\((R^2)\)</span> and interpret its meaning.</li>
-<li>Perform a hypothesis test to determine whether the regression equation is statistically significant at a 95% confidence level. State your hypotheses, the test statistic, and the conclusion.</li>
-<li>Perform the hypothesis test for testing the significance of the coefficient of the engine displacement variable and state the conclusion.</li>
-</ol>
-<p><img src="images/R_Multiple.PNG" class="img-fluid"></p>
-<ol start="2" type="1">
-<li><p>Engineering students at the University of Jaffna participated in a study to evaluate the impact of a new teaching method on their academic performance. Seven students were tested before and after the implementation of the new method. The test scores (out of 100) for each student before and after the implementation are provided in the table below. Assume that the changes in test scores are approximately normally distributed.</p>
-<table class="caption-top table">
-<tbody>
-<tr class="odd">
-<td>Subject</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-</tr>
-<tr class="even">
-<td>Before</td>
-<td>75</td>
-<td>72</td>
-<td>78</td>
-<td>65</td>
-<td>70</td>
-<td>88</td>
-<td>84</td>
-<td>85</td>
-</tr>
-<tr class="odd">
-<td>After</td>
-<td>80</td>
-<td>85</td>
-<td>82</td>
-<td>70</td>
-<td>75</td>
-<td>90</td>
-<td>86</td>
-<td>79</td>
-</tr>
-</tbody>
-</table>
-<ol type="a">
-<li>Can we use paired t-test for this problem? Justify your answer.</li>
-<li>Construct a 99% confidence interval for the mean difference in test scores.</li>
-<li>Can it be concluded that the teaching method has an impact on test scores at the 10% level of significance?</li>
-</ol></li>
-<li><p>A study is conducted to compare the lengths of time required by men and women to assemble a certain product. Past experience indicates that the distribution of times for both men and women is approximately normal but the variance of the times for women is less than that for men. A random sample of times for 11 men and 14 women produced the following data:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Men</th>
-<th>Women</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span class="math inline">\(n_1\)</span>=11</td>
-<td><span class="math inline">\(n_2\)</span>=14</td>
-</tr>
-<tr class="even">
-<td><span class="math inline">\(s_1\)</span>=6.1</td>
-<td><span class="math inline">\(s_2\)</span>=5.3</td>
-</tr>
-</tbody>
-</table>
-<p>Test, at the 0.05 level of significance, the hypothesis that <span class="math inline">\({\sigma_1}^2 = {\sigma_2}^2\)</span> against the alternative that <span class="math inline">\({\sigma_1}^2 &gt; {\sigma_2}^2\)</span> .</p></li>
-<li><p>The table shows data on the number of tourists visiting a national park in a month, t (in 1000s), and the revenue generated from tourism, r (£ millions), over a period of 8 months.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 40%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Number of tourists t (1000s)</td>
-<td>1500</td>
-<td>1620</td>
-<td>1580</td>
-<td>1490</td>
-<td>1420</td>
-<td>1380</td>
-<td>1450</td>
-<td>1510</td>
-</tr>
-<tr class="even">
-<td>Tourism revenue r (£ millions)</td>
-<td>820</td>
-<td>890</td>
-<td>870</td>
-<td>810</td>
-<td>770</td>
-<td>750</td>
-<td>790</td>
-<td>830</td>
-</tr>
-</tbody>
-</table></li>
-</ol>
-<!-- -->
-<ol type="a">
-<li><p>Find the correlation coefficient between r and t.</p></li>
-<li><p>Fit a regression model of the form <span class="math inline">\(r = a + bt\)</span> to these data.</p></li>
-<li><p>Interpret the value of b in the context of this problem.</p></li>
-<li><p>Compute a 95% confidence interval for the intercept of the regression line.</p></li>
-<li><p>Test the hypothesis that the regression line passes through the origin, using a 0.1 significance level.</p></li>
-<li><p>Estimate the revenue generated when the number of tourists in a month is 1600.</p></li>
-</ol>
-<!-- -->
-<ol start="5" type="1">
-<li><p>As a civil engineering student working on final year project at the Ariviyal Nagar Weather Station, you are tasked with predicting the soil moisture content at a 30Cm depth based on environmental factors such as temperature, wind speed, solar radiation, and overall moisture levels. The datasets you have collected is as follows:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Temperature (°C)</th>
-<th>Wind Speed (km/h)</th>
-<th>Solar Radiation (W/m²)</th>
-<th>MoistureLevel (%)</th>
-<th>Soil Moisture Content at 30Cm Depth (%)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>25</td>
-<td>10</td>
-<td>1200</td>
-<td>90</td>
-<td>15</td>
-</tr>
-<tr class="even">
-<td>27</td>
-<td>15</td>
-<td>1250</td>
-<td>85</td>
-<td>13</td>
-</tr>
-<tr class="odd">
-<td>30</td>
-<td>20</td>
-<td>1300</td>
-<td>60</td>
-<td>11</td>
-</tr>
-<tr class="even">
-<td>32</td>
-<td>25</td>
-<td>1350</td>
-<td>45</td>
-<td>20</td>
-</tr>
-<tr class="odd">
-<td>34</td>
-<td>30</td>
-<td>1200</td>
-<td>70</td>
-<td>19</td>
-</tr>
-<tr class="even">
-<td>36</td>
-<td>35</td>
-<td>1150</td>
-<td>35</td>
-<td>17</td>
-</tr>
-<tr class="odd">
-<td>38</td>
-<td>40</td>
-<td>1100</td>
-<td>30</td>
-<td>15</td>
-</tr>
-<tr class="even">
-<td>40</td>
-<td>45</td>
-<td>1050</td>
-<td>25</td>
-<td>14</td>
-</tr>
-</tbody>
-</table>
-<p>To utilize this data for predictive analysis and better manage water resources, you need to answer the following questions based on the given R output:</p></li>
-</ol>
-<!-- -->
-<ol type="a">
-<li>Determine the equation for predicting soil moisture content at a 30Cm depth based on temperature, wind speed, solar radiation, and moisture level.</li>
-<li>Explain the meaning of each coefficient in the context of the problem. Describe how changes in each environmental factor affect the soil moisture content.</li>
-<li>Use the regression plane equation to predict the soil moisture content at a 30Cm depth for the following conditions: temperature of 29°C, wind speed of 22km/h, solar radiation of 1325W/m²,and moisture level of 65%.</li>
-<li>.Determine the R-squared value for the regression plane and interpret its meaning in terms of how well the model explains the variability in soil moisture content.</li>
-<li>Conduct a test to determine the significance of the temperature variable in predicting soil moisture content. State the hypotheses, the test statistic, and the conclusion clearly.</li>
-</ol>
-</section>
-<section id="perform" class="level2">
-<h2 class="anchored" data-anchor-id="perform">Perform</h2>
-<p>Assignment 4 Examination is scheduled from 9:10 am to 9:50 am on Tuesday (05-08-2025). To ensure that the exam runs smoothly, we have arranged the exam halls as follows:</p>
-<ul>
-<li><p>Group 1 (Registration numbers <strong>2023/E/001 to 2023/E/101</strong>) will be in Exam Hall 1 (First floor, Computer Engineering Department)</p></li>
-<li><p>Group 2 (Registration numbers <strong>2023/E/103 to 2022/E/198</strong> and re-attempt students) will be in the Exam Hall 2 (2nd floor, Admin Building).</p></li>
-</ul>
-<p>Please review all sections thoroughly to ensure you’re prepared for the exam! I hope everyone follows the exam policies and cooperates with the administration to make the exam run smoothly. Moreover, you can access class materials by checking out the <a href="https://mayooran1987.github.io/MC3020-E23/" title="https://mayooran1987.github.io/MC3020-E23/">course webpage</a>.</p>
+<p><img src="images/clipboard-1030888374.gif" class="img-fluid"></p>
+<!-- ### **Lecture Schedule** -->
+<!-- -   **Monday:** -->
+<!--     -   1:55 PM – 2:50 PM and 3:10 PM – 4:05 PM -->
+<!-- -   **Tuesday:** -->
+<!--     -   8:00 AM – 8:55 AM and 8:55 AM – 9:50 AM -->
+<!-- -   **Thursday:** -->
+<!--     -   8:00 AM – 8:55 AM and 8:55 AM – 9:50 AM -->
+<!-- 🖥️[Lecture 6](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_6.pptx) - Association between Two Variables -->
+<!-- ```{=html} -->
+<!-- <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2FMayooran1987%2FMC3020%2DE23%2Frefs%2Fheads%2Fmain%2FLect%5F6%2Epptx&amp;wdAr=1.3333333333333333" width="1026px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe> -->
+<!-- ``` -->
+<!-- 🖥️ [Statistical Table](https://github.com/Mayooran1987/MC3020-E23/raw/main/Statistical_table_MC3020.pdf) - Statistical Table for probability estimations. -->
+<!-- 🖥️[Lecture 5](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_5.pptx) - Statistical Inferences II -->
+<!-- 🖥️[Lecture 4](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_4.pptx) - Statistical Inferences I -->
+<!-- 🖥️[Lecture 3](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_3.pptx) - Continuous Probability Distributions -->
+<!-- 🖥️ [Lecture 2](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_2.pptx) - Discrete Probability Distributions -->
+<!-- 🖥️ [Lecture 1](https://github.com/Mayooran1987/MC3020-E23/raw/main/Lect_1.pptx) - Introduction to Probability -->
+<!-- ## Practice -->
+<!-- 1.  Suppose you are conducting an experiment to study the relationship between the fuel consumption of a fleet vehicle and various factors such as engine displacement (L), average speed (km/h), and trip duration (hours). You collected data from multiple vehicles and obtained the following dataset : -->
+<!--     | Vehicle | Engine Displacement (L) | Average Speed (km/h) | Trip Duration (hours) | Fuel Consumption (liters) | -->
+<!--     |---------------|---------------|---------------|---------------|---------------| -->
+<!--     | 1 | 2.0 | 60 | 1.5 | 9.2 | -->
+<!--     | 2 | 2.5 | 70 | 2.0 | 12.5 | -->
+<!--     | 3 | 1.8 | 55 | 1.8 | 8.4 | -->
+<!--     | 4 | 3.0 | 80 | 2.5 | 15.6 | -->
+<!--     | 5 | 2.2 | 65 | 2.0 | 11.0 | -->
+<!--     | 6 | 2.8 | 75 | 2.2 | 14.0 | -->
+<!--     To utilize this data for predictive analysis and better manage water resources, you need to answer the following questions based on the given R output: -->
+<!-- <!-- -->
+<p>–&gt;</p>
+<!-- a.  Find the multiple linear regression line to determine the relationship between fuel consumption (dependent variable) and engine displacement, average speed, and trip duration (independent variables). -->
+<!-- b.  Interpret the coefficients of the regression equation in the context of the problem. -->
+<!-- c.  Use the regression equation to predict the fuel consumption for a vehicle with the following specifications: engine displacement = 2.4 L, average speed = 68 km/h, and trip duration = 2 hours. -->
+<!-- d.  Calculate the coefficient of determination $(R^2)$ and interpret its meaning. -->
+<!-- e.  Perform a hypothesis test to determine whether the regression equation is statistically significant at a 95% confidence level. State your hypotheses, the test statistic, and the conclusion. -->
+<!-- f.  Perform the hypothesis test for testing the significance of the coefficient of the engine displacement variable and state the conclusion. -->
+<!-- ![](images/R_Multiple.PNG) -->
+<!-- 2.  Engineering students at the University of Jaffna participated in a study to evaluate the impact of a new teaching method on their academic performance. Seven students were tested before and after the implementation of the new method. The test scores (out of 100) for each student before and after the implementation are provided in the table below. Assume that the changes in test scores are approximately normally distributed. -->
+<!--     |         |     |     |     |     |     |     |     |     | -->
+<!--     |---------|-----|-----|-----|-----|-----|-----|-----|-----| -->
+<!--     | Subject | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | -->
+<!--     | Before  | 75  | 72  | 78  | 65  | 70  | 88  | 84  | 85  | -->
+<!--     | After   | 80  | 85  | 82  | 70  | 75  | 90  | 86  | 79  | -->
+<!--     a.  Can we use paired t-test for this problem? Justify your answer. -->
+<!--     b.  Construct a 99% confidence interval for the mean difference in test scores. -->
+<!--     c.  Can it be concluded that the teaching method has an impact on test scores at the 10% level of significance? -->
+<!-- 3.  A study is conducted to compare the lengths of time required by men and women to assemble a certain product. Past experience indicates that the distribution of times for both men and women is approximately normal but the variance of the times for women is less than that for men. A random sample of times for 11 men and 14 women produced the following data: -->
+<!--     | Men       | Women     | -->
+<!--     |-----------|-----------| -->
+<!--     | $n_1$=11  | $n_2$=14  | -->
+<!--     | $s_1$=6.1 | $s_2$=5.3 | -->
+<!--     Test, at the 0.05 level of significance, the hypothesis that ${\sigma_1}^2 = {\sigma_2}^2$ against the alternative that ${\sigma_1}^2 > {\sigma_2}^2$ . -->
+<!-- 4.  The table shows data on the number of tourists visiting a national park in a month, t (in 1000s), and the revenue generated from tourism, r (£ millions), over a period of 8 months. -->
+<!--     |                                |      |      |      |      |      |      |      |      | -->
+<!--     |--------------------------------|------|------|------|------|------|------|------|------| -->
+<!--     | Number of tourists t (1000s)   | 1500 | 1620 | 1580 | 1490 | 1420 | 1380 | 1450 | 1510 | -->
+<!--     | Tourism revenue r (£ millions) | 820  | 890  | 870  | 810  | 770  | 750  | 790  | 830  | -->
+<!-- <!-- -->
+<p>–&gt;</p>
+<!-- a.  Find the correlation coefficient between r and t. -->
+<!-- b.  Fit a regression model of the form $r = a + bt$ to these data. -->
+<!-- c.  Interpret the value of b in the context of this problem. -->
+<!-- d.  Compute a 95% confidence interval for the intercept of the regression line. -->
+<!-- e.  Test the hypothesis that the regression line passes through the origin, using a 0.1 significance level. -->
+<!-- f.  Estimate the revenue generated when the number of tourists in a month is 1600. -->
+<!-- <!-- -->
+<p>–&gt;</p>
+<!-- 5.  As a civil engineering student working on final year project at the Ariviyal Nagar Weather Station, you are tasked with predicting the soil moisture content at a 30Cm depth based on environmental factors such as temperature, wind speed, solar radiation, and overall moisture levels. The datasets you have collected is as follows: -->
+<!--     | Temperature (°C) | Wind Speed (km/h) | Solar Radiation (W/m²) | MoistureLevel (%) | Soil Moisture Content at 30Cm Depth (%) | -->
+<!--     |---------------|---------------|---------------|---------------|---------------| -->
+<!--     | 25 | 10 | 1200 | 90 | 15 | -->
+<!--     | 27 | 15 | 1250 | 85 | 13 | -->
+<!--     | 30 | 20 | 1300 | 60 | 11 | -->
+<!--     | 32 | 25 | 1350 | 45 | 20 | -->
+<!--     | 34 | 30 | 1200 | 70 | 19 | -->
+<!--     | 36 | 35 | 1150 | 35 | 17 | -->
+<!--     | 38 | 40 | 1100 | 30 | 15 | -->
+<!--     | 40 | 45 | 1050 | 25 | 14 | -->
+<!--     To utilize this data for predictive analysis and better manage water resources, you need to answer the following questions based on the given R output: -->
+<!-- <!-- -->
+<p>–&gt;</p>
+<!-- a.  Determine the equation for predicting soil moisture content at a 30Cm depth based on temperature, wind speed, solar radiation, and moisture level. -->
+<!-- b.  Explain the meaning of each coefficient in the context of the problem. Describe how changes in each environmental factor affect the soil moisture content. -->
+<!-- c.  Use the regression plane equation to predict the soil moisture content at a 30Cm depth for the following conditions: temperature of 29°C, wind speed of 22km/h, solar radiation of 1325W/m²,and moisture level of 65%. -->
+<!-- d.  .Determine the R-squared value for the regression plane and interpret its meaning in terms of how well the model explains the variability in soil moisture content. -->
+<!-- e.  Conduct a test to determine the significance of the temperature variable in predicting soil moisture content. State the hypotheses, the test statistic, and the conclusion clearly. -->
+<!-- ## Perform -->
+<!-- Assignment 4 Examination is scheduled from 9:10 am to 9:50 am on Tuesday (05-08-2025). To ensure that the exam runs smoothly, we have arranged the exam halls as follows: -->
+<!-- -   Group 1 (Registration numbers **2023/E/001 to 2023/E/101**) will be in Exam Hall 1 (First floor, Computer Engineering Department) -->
+<!-- -   Group 2 (Registration numbers **2023/E/103 to 2022/E/198** and re-attempt students) will be in the Exam Hall 2 (2nd floor, Admin Building). -->
+<!-- Please review all sections thoroughly to ensure you're prepared for the exam! I hope everyone follows the exam policies and cooperates with the administration to make the exam run smoothly. Moreover, you can access class materials by checking out the [course webpage](https://mayooran1987.github.io/MC3020-E23/ "https://mayooran1987.github.io/MC3020-E23/"). -->
 <div style="font-size: 0.875em;">
 <p>Back to <a href=".." title="Course schedule">course schedule</a> ⏎</p>
 </div>
